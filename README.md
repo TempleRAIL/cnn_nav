@@ -1,5 +1,5 @@
 # Towards Safe Navigation Through Crowded Dynamic Environments
-Training code for the CNN control policy proposed in our paper ["Towards Safe Navigation Through Crowded Dynamic Environments"](https://doi.org/10.1109/IROS51168.2021.9636102)[online](https://sites.temple.edu/trail/files/2021/11/XieXinDamesIROS2021.pdf), published in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
+Training code for the CNN control policy proposed in our paper ["Towards Safe Navigation Through Crowded Dynamic Environments"](https://doi.org/10.1109/IROS51168.2021.9636102) ([online](https://sites.temple.edu/trail/files/2021/11/XieXinDamesIROS2021.pdf)), published in 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
 
 ## Requirements:
 * Pytorch 1.7.1
